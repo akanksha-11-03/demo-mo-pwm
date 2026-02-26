@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/mo-pwm/:/",
-    "/content/mo-pwm/configuration:/.helix/config.json",
-    "/content/mo-pwm/headers:/.helix/headers.json",
-    "/content/mo-pwm/metadata:/metadata.json",
-    "/content/mo-pwm.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/akanksha-mo-pwm/:/",
+    "/content/akanksha-mo-pwm/configuration:/.helix/config.json",
+    "/content/akanksha-mo-pwm/headers:/.helix/headers.json",
+    "/content/akanksha-mo-pwm/metadata:/metadata.json",
+    "/content/akanksha-mo-pwm.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/mo-pwm/"
+    "/content/akanksha-mo-pwm/"
   ]
 }
